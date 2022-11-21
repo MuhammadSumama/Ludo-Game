@@ -20,5 +20,4 @@ if (random1 > random2) {
   document.querySelector("h1").textContent = "player 2 Won The Match";
 }else{
     document.querySelector("h1").textContent= "Match Draw";
-}
-\
+} 
